@@ -6,6 +6,7 @@ import json
 class SlackHandler(logging.Handler):
 
     colors = {
+        'CRITICAL': '#e01765',
         'ERROR': '#e01765',
         'WARNING': '#e8a723',
         'INFO': '#3eb890',
