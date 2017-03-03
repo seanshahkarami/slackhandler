@@ -1,5 +1,7 @@
 # Slack Handler
 
+This is a simple module for pushing logs to Slack webhooks.
+
 ## Installation
 
 ```
